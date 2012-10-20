@@ -1,4 +1,6 @@
 cg-calc-tkinter
 ===============
 
-Simple GPA Calculator with tkinter GUI
+* Simple GPA Calculator with tkinter GUI
+
+
